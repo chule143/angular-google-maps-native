@@ -20,7 +20,7 @@ If you like this plugin give it a thumbs up at [ngmodules](http://ngmodules.org/
 
 ![screenshot](assets/screenshot.png)
 
-[npm-url]: https://npmjs.org/package/angular-google-maps-native
+[npm-url]: https://npmjs.org/package/angular-google-maps-native 
 [npm-image]: https://badge.fury.io/js/angular-google-maps-native.svg
 
 [bower-url]: http://badge.fury.io/bo/angular-google-maps-native
